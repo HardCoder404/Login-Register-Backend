@@ -8,4 +8,3 @@
 ![Screenshot (112)](https://github.com/HardCoder404/Login-Register-Backend/assets/127084297/50125883-5de1-4728-852a-38d250bd4114)
 ![Screenshot (113)](https://github.com/HardCoder404/Login-Register-Backend/assets/127084297/b06cc214-3be2-4b6c-8a3d-89eb532a5ee6)
 ![Screenshot (114)](https://github.com/HardCoder404/Login-Register-Backend/assets/127084297/225caf2c-63a7-4fab-9484-e9bccc48c7a5)
-![Screenshot (116)](https://github.com/HardCoder404/Login-Register-Backend/assets/127084297/3515c89e-e458-4c44-8a54-679f44d0e9af)
