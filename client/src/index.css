@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (min-width:320px) and (max-width:426px) {
+    .Login-page{
+        padding: 15px;
+        background-color: #fff;
+    }
+    .Register-page{
+        padding: 8px;
+        background-color: #fff;
+        height: 100vh;
+        overflow-y: hidden;
+    }
+    .image-part{
+        display: none;
+    }
+    .bottom-part{
+        margin-top: 20px;
+    }
+}
